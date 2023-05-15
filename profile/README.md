@@ -4,4 +4,4 @@
 
 ## Member
 
-- Haruster("https://github.com/haruster)
+- Haruster(https://github.com/haruster)
