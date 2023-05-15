@@ -1,8 +1,7 @@
 <div align="center">
 
 # ZeroSider
-Make Security, We are White Hacker. <br>
-ZeroSider is Security Research Team.
+ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
 
 <hr>
 
