@@ -4,5 +4,5 @@
 
 ## Member
 
-- <a href="https://github.com/haruster">Haruster</a> : ZeroSider Captain (Pwnable, Reversing, Webhacking, Cryptography) 
-- <a href="https://github.com/soundssky">Soundssky</a> : ZeroSider Security Researcher (Reversing, Cryptography) 
+- <a href="https://github.com/haruster">Haruster</a> : Pwnable, Reversing, Webhacking, Cryptography
+- <a href="https://github.com/soundssky">Soundssky</a> : Reversing, Cryptography
