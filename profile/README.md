@@ -16,7 +16,6 @@ ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
 
 <hr>
   
-</div>
 
 ## Skills
 
@@ -27,3 +26,4 @@ ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
 
 ## About
 
+</div>
