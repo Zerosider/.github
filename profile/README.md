@@ -9,10 +9,10 @@ ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
 
 <a href="https://github.com/haruster">Haruster</a> : Pwnable, Reversing, Webhacking, Cryptography <br>
 <a href="https://github.com/soundssky">Soundssky</a> : Reversing, Cryptography <br>
-<a href="https://github.com/soundssky">Kazusa</a> : Cryptography, Forensic <br>
-<a href="https://github.com/soundssky">Clozure</a> : Reversing <br>
-<a href="https://github.com/soundssky">Athroe</a> : Machine Learning <br>
-<a href="https://github.com/soundssky">LuneLay</a> : Reversing, Pwnable <br>
+<a href="https://github.com/Karusa0731">Kazusa</a> : Cryptography, Forensic <br>
+<a href="https://github.com/Clozure0917">Clozure</a> : Reversing <br>
+<a href="https://github.com/ugangdan">Athroe</a> : Machine Learning <br>
+<a href="https://github.com/Rubymoons">RubyMoons</a> : Reversing, Pwnable <br>
 
 <hr>
   
