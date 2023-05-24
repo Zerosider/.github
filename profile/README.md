@@ -7,7 +7,7 @@ ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
 
 ## Member
 
-<a href="https://github.com/haruster">Haruster</a> : Pwnable, Cryptography, Webhacking, Forensic <br>
+<a href="https://github.com/haruster">Haruster</a> : Pwnable(Reversing), Cryptography, Webhacking<br>
 <a href="https://github.com/soundssky">Soundssky</a> : Reversing, Cryptography <br>
 <a href="https://github.com/Kazusa0731">Kazusa</a> : Cryptography, Forensic <br>
 <a href="https://github.com/Clozure0917">Clozure</a> : Reversing <br>
