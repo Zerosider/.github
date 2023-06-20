@@ -1,7 +1,7 @@
 <div align="center">
 
 # ZeroSider
-ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
+ZeroSider is Security Research Team. -> Make Security, We are White Hacker. (Since 2022 ~ 2023.6) <br>
 
 <hr>
 
@@ -15,16 +15,3 @@ ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
 <a href="https://github.com/Rubymoons">RubyMoons</a> : Reversing, Forensic <br>
 
 <hr>
-  
-
-## Skills
-
-
-
-## Projects
-
- <a href="https://github.com/Zerosider/Zerosider-Log4j-Testing-Server">Log4J Testing Server</a> : Log4j Vulnerability Testing Set.
-
-## About
-
-</div>
