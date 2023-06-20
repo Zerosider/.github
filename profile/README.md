@@ -1,7 +1,7 @@
 <div align="center">
 
 # ZeroSider
-ZeroSider is Security Research Team. -> Make Security, We are White Hacker. (Since 2022 ~ 2023.6) <br>
+ZeroSider is Security Research Team. -> Make Security, We are White Hacker. <br>
 
 <hr>
 
